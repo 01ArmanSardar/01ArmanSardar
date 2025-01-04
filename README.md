@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Node js Express js mongo DB**
 
-- 💬 Ask me about **Django**
+- 💬 Ask me about **Django React**
 
 - 📫 How to reach me **armansardar0109@gmail.com**
 
